@@ -1,0 +1,6 @@
+[submodule "everything-factory/everything-claude-code"]
+	path = everything-factory/everything-claude-code
+	url = https://github.com/hoteizero/everything-claude-code
+[submodule "superpower-commander/superpowers"]
+	path = superpower-commander/superpowers
+	url = https://github.com/hoteizero/superpowers
